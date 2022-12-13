@@ -1,0 +1,8 @@
+C:\DotNetDev\Projects\Domaci02\Domaci02\bin\Debug\Domaci02.exe.config
+C:\DotNetDev\Projects\Domaci02\Domaci02\bin\Debug\Domaci02.exe
+C:\DotNetDev\Projects\Domaci02\Domaci02\bin\Debug\Domaci02.pdb
+C:\DotNetDev\Projects\Domaci02\Domaci02\obj\Debug\Domaci02.csproj.AssemblyReference.cache
+C:\DotNetDev\Projects\Domaci02\Domaci02\obj\Debug\Domaci02.csproj.SuggestedBindingRedirects.cache
+C:\DotNetDev\Projects\Domaci02\Domaci02\obj\Debug\Domaci02.csproj.CoreCompileInputs.cache
+C:\DotNetDev\Projects\Domaci02\Domaci02\obj\Debug\Domaci02.exe
+C:\DotNetDev\Projects\Domaci02\Domaci02\obj\Debug\Domaci02.pdb
